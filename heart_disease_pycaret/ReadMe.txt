@@ -10,6 +10,7 @@ conda env export > heart_disease_venv.yml
 conda deactivate
 
 ## To set-up from yaml file and create a kernel for use in Jupyter:
+
 conda env create -f heart_disease_venv.yml
 conda activate hd_env
 pip install --user ipykernel
