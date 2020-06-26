@@ -1,3 +1,9 @@
+## Data
+The dataset is available here in the repo for ease, however, the source is here: https://archive.ics.uci.edu/ml/machine-learning-databases/heart-disease/ where more information about the variables and data collection can be found.
+
+## PyCaret
+To learn more about PyCaret please go to: https://pycaret.org/
+
 ## Creating the environment from scratch and for use in Jupyter:
 
 ```
