@@ -163,5 +163,4 @@ dependencies:
     - yellowbrick==1.0.1
     - zipp==3.1.0
     - zope-interface==5.1.0
-prefix: C:\Users\JasonPB\Miniconda3\envs\hd_env
 
